@@ -15,3 +15,9 @@
 - Place: Islamabad, Pakistan
 - Bio: Beta Microsoft Learn Student Ambassador | Co-Lead MLSA - Women Tech Hub 
 - GitHub: [Mahnoor26](https://github.com/mahnoor26)
+
+#### Name: [Hammad Ul Hassan](https://github.com/hammadulhassan123)
+
+- Place: Rawalpindi, Pakistan
+- Bio: GDSC Member
+- GitHub: [hammadulhassan123](https://github.com/hammadulhassan123)
